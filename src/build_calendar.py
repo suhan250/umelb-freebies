@@ -140,8 +140,49 @@ def _parse_time_range(text: str, base_date: datetime) -> Optional[tuple[datetime
 
 
 def _parse_time_list_format(text: str, base_date: datetime) -> Optional[tuple[datetime, datetime]]:
-    """Parse formats like 'noon - 2:30pm', '1pm - 4pm', '9:30am - 10:30am'."""
+    """Parse formats like 'noon - 2:30pm', '1pm - 4pm', or '15th September midnight - 18th September midnight'."""
     text = text.strip()
+
+    # Try to match a full date range like "15th September midnight - 18th September midnight"
+    date_range_match = re.search(
+        r"(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+(midnight|noon|\d{1,2}(?::\d{2})?\s*(?:am|pm)?)"
+        r"\s*[-\u2013\u2014]\s*"
+        r"(?:(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+)?(midnight|noon|\d{1,2}(?::\d{2})?\s*(?:am|pm)?)",
+        text,
+        re.IGNORECASE,
+    )
+    if date_range_match:
+        year = base_date.year
+        day1 = int(date_range_match.group(1))
+        month1 = MONTH_NAMES.get(date_range_match.group(2).lower(), base_date.month)
+        time1 = date_range_match.group(3)
+        day2 = int(date_range_match.group(4)) if date_range_match.group(4) else day1
+        month2 = MONTH_NAMES.get(date_range_match.group(5).lower(), month1) if date_range_match.group(5) else month1
+        time2 = date_range_match.group(6)
+
+        def _hm(s):
+            s = s.strip().lower()
+            if s == "midnight":
+                return (0, 0)
+            if s == "noon":
+                return (12, 0)
+            m2 = re.match(r"(\d{1,2})(?::(\d{2}))?", s)
+            h = int(m2.group(1)) if m2 else 9
+            mn = int(m2.group(2) or 0) if m2 else 0
+            if "pm" in s and h != 12:
+                h += 12
+            elif "am" in s and h == 12:
+                h = 0
+            return (h, mn)
+
+        h1, m1 = _hm(time1)
+        h2, m2 = _hm(time2)
+        start = datetime(year, month1, day1, h1, m1, tzinfo=MEL)
+        end = datetime(year, month2, day2, h2, m2, tzinfo=MEL)
+        if end <= start:
+            end += timedelta(days=1)
+        return (start, end)
+
     match = TIME_RANGE_RE.search(text)
     if match:
         return _parse_time_range(text, base_date)

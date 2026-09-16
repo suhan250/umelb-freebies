@@ -35,9 +35,9 @@ FREE_FOOD_KEYWORDS = [
 
 FREE_BENEFIT_KEYWORDS = [
     "free gift", "free merchandise", "free book", "free stationery",
-    "free workshop", "free movie", "free game", "free cultural",
-    "free social", "免费礼品", "免费 merchandise", "免费生活用品",
-    "免费书籍", "免费学习用品", "免费 workshop", "免费电影", "免费游戏",
+    "free items", "free supplies", "free pack", "free kit", "free sample",
+    "free goodies", "free swag", "giveaway", "免费礼品", "免费 merchandise",
+    "免费生活用品", "免费书籍", "免费学习用品", "免费物资", "免费领取",
 ]
 
 PAID_INDICATORS = [
@@ -440,14 +440,14 @@ def filter_free(events: list[dict]) -> list[dict]:
         combined = f"{e['name']} {e['description']}"
         if _is_paid(combined):
             continue
-        if not (_is_free_food(e["name"], e["description"], []) or
-                _is_free_benefit(e["name"], e["description"], [])):
-            # For eventlist pages, all events are already tagged as free
-            if e["source"] in ("free_food", "free"):
-                pass
-            else:
-                continue
-        result.append(e)
+        # free_food source: already curated by UMSU as free food events
+        if e["source"] == "free_food":
+            result.append(e)
+            continue
+        # free/all_events source: only keep if mentions free food or free physical items
+        if _is_free_food(e["name"], e["description"], []) or \
+           _is_free_benefit(e["name"], e["description"], []):
+            result.append(e)
     return result
 
 

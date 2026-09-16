@@ -65,9 +65,15 @@ def test_free_food_included():
 
 
 def test_free_benefit_included():
-    e = _event(name="Free Workshop", description="Learn new skills")
+    e = _event(name="Free Gift Giveaway", description="Free merchandise for students", source="free")
     result = filter_free([e])
     assert len(result) == 1
+
+
+def test_free_workshop_excluded():
+    e = _event(name="Free Workshop", description="Learn new skills", source="free")
+    result = filter_free([e])
+    assert len(result) == 0
 
 
 def test_past_excluded():

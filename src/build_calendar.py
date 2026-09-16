@@ -485,7 +485,7 @@ def build_ics(events: list[dict], now: datetime) -> str:
         desc_parts.append(f"Source: {e['source']}")
         desc_parts.append(f"URL: {e['url']}")
         desc_parts.append(f"Fetched: {now.strftime('%Y-%m-%d %H:%M %Z')}")
-        description = "\\n".join(desc_parts)
+        description = "\n".join(desc_parts)
 
         summary = e["name"]
         if e["organisation"]:

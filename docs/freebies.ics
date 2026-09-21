@@ -7,277 +7,313 @@ X-WR-CALNAME:🍔 UMelb Freebies
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
 UID:763e614ce5dd831db65701cb2f702b5d@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260921T093000
 DTEND;TZID=Australia/Melbourne:20260921T103000
 SUMMARY:INTL Brekkie
 LOCATION:Gate 6 (near Amphitheatre)
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11534/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11534/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/ents/event/11534/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:75413861826a66e579cf7e8a2a6ef773@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260922T120000
 DTEND;TZID=Australia/Melbourne:20260922T143000
 SUMMARY:Bites & Bustles: Australian Wildlife Appreciation
 LOCATION:Market Hall
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11514/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11514/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/ents/event/11514/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
+UID:888e8b3826b0279d74f338c448563b1c@umelb-freebies
+DTSTAMP:20260921T091522Z
+DTSTART;TZID=Australia/Melbourne:20260922T130000
+DTEND;TZID=Australia/Melbourne:20260922T160000
+SUMMARY:Weekly Meeting! (picnic style)
+LOCATION:South Lawn
+DESCRIPTION:A chill hangout with llamas\, snacks and general good vibes :)\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6821/11986/\nFetched: 2026-09-21 19:15 AEST
+URL:https://umsu.unimelb.edu.au/events/6821/11986/
+STATUS:CONFIRMED
+CATEGORIES:FREE FOOD
+END:VEVENT
+BEGIN:VEVENT
 UID:a1486a70ec29381860e6b135ad75cbd0@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260922T140000
 DTEND;TZID=Australia/Melbourne:20260922T150000
 SUMMARY:Student Seminar Series Pt. 3: Black Holes\, Dark Matter\, Statistical and Temporal Mechanics
 LOCATION:Room 260\, David Caro Building
-DESCRIPTION:Want to explore some physics outside the syllabus in an approachable way? Come support your peers as they explore topics such as black holes\, dark matter\, statistical mechanics and temporal mechanics. FREE pizza provided! 🍕\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/7325/11956/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Want to explore some physics outside the syllabus in an approachable way? Come support your peers as they explore topics such as black holes\, dark matter\, statistical mechanics and temporal mechanics. FREE pizza provided! 🍕\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/7325/11956/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/7325/11956/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:1c790f78261786af3cca1e703e0d04c8@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260922T170000
 DTEND;TZID=Australia/Melbourne:20260922T190000
 SUMMARY:Annual General Meeting 2026
 LOCATION:Old Agriculture Building - PAR-142-B1-B151-Lower Theatre (125)
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/10065/11971/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/10065/11971/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/10065/11971/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:c47c33d5fd22299d93a85c483ce9cff8@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260922T173000
 DTEND;TZID=Australia/Melbourne:20260922T200000
 SUMMARY:Reels Club AGM
 LOCATION:Old Geology Building - Theatre 2\, Basement Level
-DESCRIPTION:Reels Club AGM - vote on the future of our content\, have some snacks\, doomscroll\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/10131/11929/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Reels Club AGM - vote on the future of our content\, have some snacks\, doomscroll\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/10131/11929/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/10131/11929/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:1a6230323ee2ffb46cec288ec48f7ac1@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260922T180000
 DTEND;TZID=Australia/Melbourne:20260922T200000
 SUMMARY:Trivia Night at Ida Bar
 LOCATION:Ida Bar
-DESCRIPTION:Get excited for our biggest event Trivia! Come along for a great night of quizzing and fun.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6477/11960/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Get excited for our biggest event Trivia! Come along for a great night of quizzing and fun.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6477/11960/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/6477/11960/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:7db11b33dc19ff3ad7e76469bdc944a6@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260922T183000
 DTEND;TZID=Australia/Melbourne:20260922T203000
 SUMMARY:Competitions Showcase and Awards Night
 LOCATION:Elisabeth Murdoch G04
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/8047/11826/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/8047/11826/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/8047/11826/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:285832af643fb037e3eb9f255558f182@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260923T093000
 DTEND;TZID=Australia/Melbourne:20260923T103000
 SUMMARY:INTL Brekkie
 LOCATION:Gate 6 (near Amphitheatre)
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11535/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11535/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/ents/event/11535/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:a941bc2bc9d603ca7dc2031cb76e3900@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260923T130000
 DTEND;TZID=Australia/Melbourne:20260923T143000
 SUMMARY:JD Admissions Team Panel
 LOCATION:Alan Gilbert Building: PAR-104-L1-124-Collaborative Learning Space
-DESCRIPTION:Come hear from the people reading your JD application and gain the answers to all your burning admissions questions.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/8915/11658/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Come hear from the people reading your JD application and gain the answers to all your burning admissions questions.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/8915/11658/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/8915/11658/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:dea4dcb641faa1418f634b462df3d5d2@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260923T181500
 DTEND;TZID=Australia/Melbourne:20260923T200000
 SUMMARY:2026 Annual General Meeting
 LOCATION:Redmond Barry (PAR-115)\, L1\, Room 104
-DESCRIPTION:Want to help shape the future of MUPS? Come along to our AGM\, vote on the next committee\, share your ideas\, and discover ways to get involved behind the scenes. Enjoy free pizza\, meet other members\, and be part of the conversation!\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/7991/11916/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Want to help shape the future of MUPS? Come along to our AGM\, vote on the next committee\, share your ideas\, and discover ways to get involved behind the scenes. Enjoy free pizza\, meet other members\, and be part of the conversation!\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/7991/11916/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/7991/11916/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
+UID:1b2e73bcd5690ceff0f2ea73441496ee@umelb-freebies
+DTSTAMP:20260921T091522Z
+DTSTART;TZID=Australia/Melbourne:20260924T130000
+DTEND;TZID=Australia/Melbourne:20260924T140000
+SUMMARY:Your Mind Needs A Rest Too!!!
+LOCATION:L101\, Building 189
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/6221/11983/\nFetched: 2026-09-21 19:15 AEST
+URL:https://umsu.unimelb.edu.au/events/6221/11983/
+STATUS:CONFIRMED
+CATEGORIES:FREE FOOD
+END:VEVENT
+BEGIN:VEVENT
 UID:b93d80d64c0b118e853afe353195cec2@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260924T160000
 DTEND;TZID=Australia/Melbourne:20260924T170000
 SUMMARY:PTC English Corner
 LOCATION:Law building\, room 223
-DESCRIPTION:Source: free_food\nURL: https://www.meetup.com/ptc-english-corner/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://www.meetup.com/ptc-english-corner/\nFetched: 2026-09-21 19:15 AEST
 URL:https://www.meetup.com/ptc-english-corner/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:b4004a585e611a92f5f98ae178d3dea8@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260924T170000
 DTEND;TZID=Australia/Melbourne:20260924T190000
 SUMMARY:Annual General Meeting
 LOCATION:Jim Potter Room\, Old Physics
-DESCRIPTION:Run for a committee position and support your favourite ancient history club!\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6477/11884/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Run for a committee position and support your favourite ancient history club!\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6477/11884/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/6477/11884/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:7473f644e7aa0d8ec212dd1f3df2abe2@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260924T170000
 DTEND;TZID=Australia/Melbourne:20260924T190000
 SUMMARY:House of Peace ( week 9 )
 LOCATION:Law building\, room 223
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/9493/11009/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/9493/11009/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/9493/11009/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:4de3da3a866f4057d924ae017b0ebc22@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260924T170000
 DTEND;TZID=Australia/Melbourne:20260924T200000
 SUMMARY:MTech X Cainz X EY Case Competetion - Closing Day
 LOCATION:PAR-379-B1-B118 Collaborative Learning Space (102)
-DESCRIPTION:The CAINZ x MTech Case Competition Closing Day brings together the top-performing teams to present their final solutions to a panel of judges. The event concludes the competition with final presentations\, judging\, and the announcement of the winners.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/8904/11938/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:The CAINZ x MTech Case Competition Closing Day brings together the top-performing teams to present their final solutions to a panel of judges. The event concludes the competition with final presentations\, judging\, and the announcement of the winners.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/8904/11938/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/8904/11938/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:efc3cf927a8b28c1bac249c5c8be9f45@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260924T173000
 DTEND;TZID=Australia/Melbourne:20260924T190000
 SUMMARY:WCS Annual General Meeting 2026
 LOCATION:Turner Theatre\, Biosciences 2 (building 122)\, 47 Professors Walk\, Parkville VIC 3010.
-DESCRIPTION:As we prepare our events for this semester we are also looking forward to the Wildlife Conservation Society Annual General Meeting! Nominations of positions will be taken and votes cast\, all while have some free food\, drink and a chat.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/7733/11423/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:As we prepare our events for this semester we are also looking forward to the Wildlife Conservation Society Annual General Meeting! Nominations of positions will be taken and votes cast\, all while have some free food\, drink and a chat.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/7733/11423/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/7733/11423/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:3c4d01d34a3d6a1c5a5ec0f47d2e93e6@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260924T180000
 DTEND;TZID=Australia/Melbourne:20260924T200000
 SUMMARY:Spaghetti Bridge Competition
 LOCATION:Alan Gilbert Building\, Room G01 & G02 & G03
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/6461/11841/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/6461/11841/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/6461/11841/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:dfedf93dd5c54116229c7421c7743e76@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260925T093000
 DTEND;TZID=Australia/Melbourne:20260925T103000
 SUMMARY:INTL Brekkie
 LOCATION:Gate 6 (near Amphitheatre)
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11536/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11536/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/ents/event/11536/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:48e00debc46e812fef7674fd6de3da38@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260925T160000
 DTEND;TZID=Australia/Melbourne:20260925T190000
 SUMMARY:Mahjong Weekly Meetup
 LOCATION:Market Hall Activity Rooms
-DESCRIPTION:Join us for weekly mahjong! Check our location and times on our instagram @wom_unimelb - Snacks provided\, beginners always welcome:)\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/9603/11092/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Join us for weekly mahjong! Check our location and times on our instagram @wom_unimelb - Snacks provided\, beginners always welcome:)\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/9603/11092/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/9603/11092/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:6fe8b0705fab366b2945527e37700c7f@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260928T093000
 DTEND;TZID=Australia/Melbourne:20260928T103000
 SUMMARY:INTL Brekkie
 LOCATION:Gate 6 (near Amphitheatre)
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11537/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11537/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/ents/event/11537/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:0581464b278ef366e9bd6701d943cb0a@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260929T163000
 DTEND;TZID=Australia/Melbourne:20260929T180000
 SUMMARY:FORaMEAL Emergency Relief Meal Packing
 LOCATION:Market Hall
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/9372/11283/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/events/9372/11283/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/9372/11283/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:56a8f0427ec173b7cb6400ca552d9bf6@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20260930T093000
 DTEND;TZID=Australia/Melbourne:20260930T103000
 SUMMARY:INTL Brekkie
 LOCATION:Gate 6 (near Amphitheatre)
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11538/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11538/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/ents/event/11538/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:a86cf595ffc01d46764e23e2d0ade266@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20261002T093000
 DTEND;TZID=Australia/Melbourne:20261002T103000
 SUMMARY:INTL Brekkie
 LOCATION:Gate 6 (near Amphitheatre)
-DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11539/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11539/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/ents/event/11539/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:5b0b1f33e17eb0e7cb71915edbe8cf55@umelb-freebies
-DTSTAMP:20260920T091334Z
+DTSTAMP:20260921T091522Z
 DTSTART;TZID=Australia/Melbourne:20261002T160000
 DTEND;TZID=Australia/Melbourne:20261002T190000
 SUMMARY:Mahjong Weekly Meetup
 LOCATION:Market Hall Activity Rooms
-DESCRIPTION:Join us for weekly mahjong! Check our location and times on our instagram @wom_unimelb - Snacks provided\, beginners always welcome:)\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/9603/11093/\nFetched: 2026-09-20 19:13 AEST
+DESCRIPTION:Join us for weekly mahjong! Check our location and times on our instagram @wom_unimelb - Snacks provided\, beginners always welcome:)\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/9603/11093/\nFetched: 2026-09-21 19:15 AEST
 URL:https://umsu.unimelb.edu.au/events/9603/11093/
+STATUS:CONFIRMED
+CATEGORIES:FREE FOOD
+END:VEVENT
+BEGIN:VEVENT
+UID:190286a6dcb7308e597254449ea48e6b@umelb-freebies
+DTSTAMP:20260921T091522Z
+DTSTART;TZID=Australia/Melbourne:20261005T093000
+DTEND;TZID=Australia/Melbourne:20261005T103000
+SUMMARY:INTL Brekkie
+LOCATION:Gate 6 (near Amphitheatre)
+DESCRIPTION:Source: free_food\nURL: https://umsu.unimelb.edu.au/ents/event/11540/\nFetched: 2026-09-21 19:15 AEST
+URL:https://umsu.unimelb.edu.au/ents/event/11540/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT

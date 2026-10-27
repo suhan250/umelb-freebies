@@ -6,50 +6,50 @@ METHOD:PUBLISH
 X-WR-CALNAME:🍔 UMelb Freebies
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:aa858cd11dbb9732e30d3640258565b4@umelb-freebies
-DTSTAMP:20261026T155829Z
-DTSTART;TZID=Australia/Melbourne:20261027T133000
-DTEND;TZID=Australia/Melbourne:20261027T143000
-SUMMARY:Carte Crêpes and French Speaking Games
-LOCATION:Carte Crepes: John Medley Building\, University of Melbourne\, Parkville VIC 3010
-DESCRIPTION:Join us for some crêpes as a study break and to get fuelled!\nWe will play some fun French speaking games like never have I ever\, would you rather and guess the French idiom as well as having general conversation!\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6813/12121/\nFetched: 2026-10-27 02:58 AEDT
-URL:https://umsu.unimelb.edu.au/events/6813/12121/
-STATUS:CONFIRMED
-CATEGORIES:FREE FOOD
-END:VEVENT
-BEGIN:VEVENT
 UID:c6d998639eec9f3e13916b2cdf0c43d8@umelb-freebies
-DTSTAMP:20261026T155829Z
+DTSTAMP:20261027T151301Z
 DTSTART;TZID=Australia/Melbourne:20261028T090000
 DTEND;TZID=Australia/Melbourne:20261028T170000
 SUMMARY:SWOTVAC Wednesday Study Session
 LOCATION:PAR-149-L1-155
-DESCRIPTION:This is a SWOTVAC study session organised by MUCSS. Lecturers and tutors from a range of civil engineering subjects will be invited to provide students with additional consultation and academic support before their exams.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6461/12069/\nFetched: 2026-10-27 02:58 AEDT
+DESCRIPTION:This is a SWOTVAC study session organised by MUCSS. Lecturers and tutors from a range of civil engineering subjects will be invited to provide students with additional consultation and academic support before their exams.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6461/12069/\nFetched: 2026-10-28 02:13 AEDT
 URL:https://umsu.unimelb.edu.au/events/6461/12069/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:20723298d1b07e67028b8ede91603cb1@umelb-freebies
-DTSTAMP:20261026T155829Z
+DTSTAMP:20261027T151301Z
 DTSTART;TZID=Australia/Melbourne:20261028T120000
 DTEND;TZID=Australia/Melbourne:20261028T150000
 SUMMARY:Surveying Equipment Practice Day with C.R. Kennedy
 LOCATION:University Oval
-DESCRIPTION:An opportunity to practice using surveying equipment with experts from C.R. Kennedy and enjoy a day out in the sun with free food and drinks provided by MUGS.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6837/12179/\nFetched: 2026-10-27 02:58 AEDT
+DESCRIPTION:An opportunity to practice using surveying equipment with experts from C.R. Kennedy and enjoy a day out in the sun with free food and drinks provided by MUGS.\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/6837/12179/\nFetched: 2026-10-28 02:13 AEDT
 URL:https://umsu.unimelb.edu.au/events/6837/12179/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT
 BEGIN:VEVENT
 UID:5474a550a305394f0c9e49275874182f@umelb-freebies
-DTSTAMP:20261026T155829Z
+DTSTAMP:20261027T151301Z
 DTSTART;TZID=Australia/Melbourne:20261028T130000
 DTEND;TZID=Australia/Melbourne:20261028T170000
 SUMMARY:SWOTVAC Matcha and Study
 LOCATION:Law building\, Room 221
-DESCRIPTION:Running low on study energy? Time to refuel! 🍵⚡️\n\nJoin us for Matcha & Study session with PTC! We're serving up FREE MATCHA to keep your tank full while you lock in for study sessions!\n\nBring your notes\, your friends\, and your favorite study vib\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/9493/12242/\nFetched: 2026-10-27 02:58 AEDT
+DESCRIPTION:Running low on study energy? Time to refuel! 🍵⚡️\n\nJoin us for Matcha & Study session with PTC! We're serving up FREE MATCHA to keep your tank full while you lock in for study sessions!\n\nBring your notes\, your friends\, and your favorite study vib\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/9493/12242/\nFetched: 2026-10-28 02:13 AEDT
 URL:https://umsu.unimelb.edu.au/events/9493/12242/
+STATUS:CONFIRMED
+CATEGORIES:FREE FOOD
+END:VEVENT
+BEGIN:VEVENT
+UID:1d942364d8e77ea839fb239b07be4cce@umelb-freebies
+DTSTAMP:20261027T151301Z
+DTSTART;TZID=Australia/Melbourne:20261029T180000
+DTEND;TZID=Australia/Melbourne:20261029T213000
+SUMMARY:Movie Night
+LOCATION:DM @unimelb_laborclub on instagram
+DESCRIPTION:Come watch State of the Union with the Labor Club!\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/7077/12243/\nFetched: 2026-10-28 02:13 AEDT
+URL:https://umsu.unimelb.edu.au/events/7077/12243/
 STATUS:CONFIRMED
 CATEGORIES:FREE FOOD
 END:VEVENT

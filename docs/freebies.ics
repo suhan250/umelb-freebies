@@ -5,16 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:🍔 UMelb Freebies
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:1d942364d8e77ea839fb239b07be4cce@umelb-freebies
-DTSTAMP:20261028T154850Z
-DTSTART;TZID=Australia/Melbourne:20261029T180000
-DTEND;TZID=Australia/Melbourne:20261029T213000
-SUMMARY:Movie Night
-LOCATION:DM @unimelb_laborclub on instagram
-DESCRIPTION:Come watch State of the Union with the Labor Club!\nSource: free_food\nURL: https://umsu.unimelb.edu.au/events/7077/12243/\nFetched: 2026-10-29 02:48 AEDT
-URL:https://umsu.unimelb.edu.au/events/7077/12243/
-STATUS:CONFIRMED
-CATEGORIES:FREE FOOD
-END:VEVENT
 END:VCALENDAR
